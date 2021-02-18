@@ -1,13 +1,13 @@
-# camunda-bpmn-js-examples
+# camunda-bpmn-js-typescript-example
 
 ## Installation
 
 ```sh
 # Clone the project
-git clone https://github.com/pinussilvestrus/camunda-bpmn-js-examples.git
+git clone https://github.com/pinussilvestrus/camunda-bpmn-js-typescript-example.git
 
 # Move into the directory
-cd camunda-bpmn-js-examples
+cd camunda-bpmn-js-typescript-example
 
 # Install dependencies
 npm run install
@@ -19,7 +19,7 @@ npm run install
 npm start
 ```
 
-Visit http://localhost:5000/ to open the examples. For example, direct to http://localhost:5000/camunda-platform to inspect the Camunda Platform Modeler. 
+Visit http://localhost:5000/ to open the example.
 
 ## Development
 
