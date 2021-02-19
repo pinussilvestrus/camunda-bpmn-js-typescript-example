@@ -10,7 +10,7 @@ git clone https://github.com/pinussilvestrus/camunda-bpmn-js-typescript-example.
 cd camunda-bpmn-js-typescript-example
 
 # Install dependencies
-npm run install
+npm install
 ```
 
 ## Run
